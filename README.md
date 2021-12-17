@@ -3,6 +3,10 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Lobster&color=%2326A9AE&size=30&center=true&vCenter=true&multiline=true&width=500&height=200&lines=Hello%2C+%E0%AE%B5%E0%AE%A3%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%AE%E0%AF%8D%2C+%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87;I+am+Sudharshan+Balaji;App+Developer%2C+CSE+Undergrad%2C+Gamer">
   </a>
 </h1>
+
+<!-->Skills and Tools<!-->
+
+
 <h1 align="center"> 🔧 Skills & Tools: </h1>
 
 <p align="center">
@@ -22,6 +26,9 @@
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </p>
+
+<!-->Socials<!-->
+
 <h1 align="center"> 🤝 Socials: </h1>
   <p align="center">
     <a href="https://twitter.com/bsudharshan2001">
@@ -32,5 +39,22 @@
     </a>
   </p>
 
+<!-->Stats<!-->
+
 <h2 align="center">⚡ Stats ⚡</h2>
+<a href="https://github.com/bsudharshan2001/bsudharshan2001">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsudharshan&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/bsudharshan2001/bsudharshan2001">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bsudharshan2001&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+
+<a href="https://github.com/bsudharshan2001/Titan_BSudharshan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bsudharshan2001&repo=Titan_BSudharshan&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/bsudharshan2001/indian_sign_language">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bsudharshan2001&repo=indian_sign_language&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
 <br>
