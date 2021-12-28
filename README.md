@@ -38,9 +38,11 @@
   </p>
 
 <h2 align="center">⚡ Stats ⚡</h2>
+
 <a href="https://github.com/bsudharshan2001/bsudharshan2001">
-  <img align="center" width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsudharshan&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsudharshan2001&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8" />
 </a>
+
 <a href="https://github.com/bsudharshan2001/bsudharshan2001">
   <img align="center" width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bsudharshan2001&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sudharshan's GitHub Stats" />
 </a>
