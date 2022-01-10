@@ -55,3 +55,13 @@
 <br>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=bsudharshan2001.profile&left_color=green&right_color=red)
+
+<br>
+<div align="center">
+<p>Have a great day!</p>
+</div>
+
+<div align="center">
+<p></p>
+<img src="https://profile-counter.glitch.me/fnky/count.svg" alt="hit counter" align="center">
+</div>
