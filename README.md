@@ -19,9 +19,16 @@
   <a href="https://www.javascript.com/">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   </a>
-  <br>
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white">
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white">
+  </a>
+  
 </p>
 
 <h1 align="center"> 🤝 Socials: </h1>
@@ -62,7 +69,7 @@
 <table>
   <tr>
     <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/ryanlanciaux/count.svg" alt="" /></td>
+    <td><img src="https://profile-counter.glitch.me/bsudharshan2001/count.svg" alt="" /></td>
   </tr>
 </table>
 </div>
