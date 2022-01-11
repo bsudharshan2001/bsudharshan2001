@@ -53,15 +53,16 @@
   <img align="center" width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=bsudharshan2001&repo=indian_sign_languages&theme=merko" />
 </a>    
 <br>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=bsudharshan2001.profile&left_color=green&right_color=red)
-
-<br>
+<hr>
 <div align="center">
 <p>Have a great day!</p>
 </div>
 
 <div align="center">
-<p></p>
-<img src="https://profile-counter.glitch.me/bsudharshan2001/count.svg" alt="hit counter" align="center">
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/ryanlanciaux/count.svg" alt="" /></td>
+  </tr>
+</table>
 </div>
