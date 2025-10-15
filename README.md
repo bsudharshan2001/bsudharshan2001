@@ -29,16 +29,6 @@
   
 </p>
 
-<h1 align="center"> 🤝 Socials: </h1>
-  <p align="center">
-    <a href="https://twitter.com/bsudharshan2001">
-      <img src="https://img.shields.io/badge/twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white">
-    </a>
-    <a href="https://www.linkedin.com/in/sudharshanbalaji/">
-      <img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-  </p>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <a href="https://github.com/bsudharshan2001/bsudharshan2001">
