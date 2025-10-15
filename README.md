@@ -1,5 +1,5 @@
 <h1 align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1500&color=BDF700&background=FF4B30&center=true&vCenter=true&multiline=true&random=false&width=600&height=200&lines=Hello%2C+%E0%AE%B5%E0%AE%A3%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%AE%E0%AF%8D%2C+%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87;Ore+Wa+Sudharshan+Balaji;ML+Engineer%2C+App+Developer;Grad+Student+at+USF" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=ML+Researcher" alt="Typing SVG" /></a>
 </h1>
 
 <h1 align="center"> 🔧 Skills & Tools: </h1>
