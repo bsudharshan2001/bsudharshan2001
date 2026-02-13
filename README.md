@@ -5,7 +5,7 @@
 <p align="center">
   <samp>
     PhD student at <a href="https://www.usf.edu/">USF</a> | <a href="[https://sprai.cs.usf.edu/](https://trust-ai-lab.github.io/)">SPRAI Lab</a><br/>
-    LLMs Alignment & Safety | Federated Learning
+    LLM Alignment & Safety | Federated Learning
   </samp>
 </p>
 
@@ -23,15 +23,9 @@
 ```yaml
 domains:
   - Clinical NLP & Medical AI
-  - LLM Security & Adversarial Robustness
-  - Byzantine-Resilient Federated Learning
-  
-recent_work:
-  - "Automated CAD-RADS scoring from clinical reports"
-  - "Security aspects of large language models"
-  - "Distributed learning with edge devices"
+  - LLM Alignment/Safety & Adversarial Robustness
+  - Federated Learning
 ```
-
 ---
 
 ### 🛠️ Tech Stack
