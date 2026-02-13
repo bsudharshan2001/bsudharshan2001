@@ -5,7 +5,7 @@
 <p align="center">
   <samp>
     PhD student at <a href="https://www.usf.edu/">USF</a> | <a href="[https://sprai.cs.usf.edu/](https://trust-ai-lab.github.io/)">SPRAI Lab</a><br/>
-    LLMs & LLM Security | Federated Learning
+    LLMs Alignment & Safety | Federated Learning
   </samp>
 </p>
 
